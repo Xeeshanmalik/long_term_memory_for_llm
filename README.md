@@ -56,7 +56,8 @@ The server provides three essential memory management tools:
 
 5. Configure your environment variables in the `.env` file (see Configuration section)
 
-6. ```bash
+6. Build and run the PostgreSQL container:  
+  ```bash
    cd postgres
    docker build -t postgres-mcp .
    docker run -d --name postgres-mcp postgres-mcp
