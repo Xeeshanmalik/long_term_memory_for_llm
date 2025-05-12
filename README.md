@@ -40,8 +40,8 @@ The server provides three essential memory management tools:
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/coleam00/mcp-mem0.git
-   cd mcp-mem0
+   git clone https://github.com/Xeeshanmalik/long_term_memory_for_llm.git
+   cd long_term_memory_for_llm
    ```
 
 3. Install dependencies:
